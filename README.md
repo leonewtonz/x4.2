@@ -1,1 +1,3 @@
-# x4.2
+# exercise 4.2
+
+This repo demonstrate Github.com
