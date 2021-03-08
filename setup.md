@@ -1,3 +1,3 @@
 ## Setup
 
-Installation instruction
+Installation instruction (upload file from local pc)
